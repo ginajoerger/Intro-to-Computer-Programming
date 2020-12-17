@@ -1,4 +1,4 @@
-# Intro-to-Computer-Programming
+# Homework 0
 
 ## Exercise 1 - Print a greeting message
 
